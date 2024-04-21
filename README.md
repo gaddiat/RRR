@@ -1,4 +1,4 @@
-# RRR
+# RRR - Rapid Recipe Routine
 ## Team Members
 
 **Names** - Amit Gaddi, , 
